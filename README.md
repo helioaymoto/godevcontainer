@@ -1,4 +1,4 @@
-# gotest
+# GO Dev Container
 simple app to demostrate go language development on Container
 
 ## About this project
